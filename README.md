@@ -45,12 +45,10 @@ TaskWave is a web application designed to streamline team task management. Built
 - *Redux Toolkit* for state management
 - *Tailwind CSS* for styling
 - *Headless UI* for accessible and customizable UI components
-- *Frontend developed by Yashwanth* and  Rushikesh **
 
 ### Backend:
 - *Node.js* with *Express.js* for handling server-side logic
 - *JWT* for secure authentication
-- *Backend developed by Yashwanth*
 
 ### Database:
 - **MongoDB** for efficient and scalable data storage
